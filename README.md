@@ -22,4 +22,4 @@ Logout Mechanisms
 After Logout: Redirect to login page.
 
 Deploy Link:
-https://tutedude-mern-secrets.onrender.com/home
+https://jhansi-mern-secrets.onrender.com/home
